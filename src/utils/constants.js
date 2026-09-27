@@ -7,14 +7,14 @@ export const PERSONAL_INFO = {
   email: 'harinipriyapk@gmail.com',
   phone: '9791280304',
   linkedin: 'https://linkedin.com/in/harini-priya-p-ba7125327',
-  github: 'https://github.com/harinipriya-p',
-  resume: '/resume.pdf',
+  github: 'https://github.com/harinipriyapk',
+  resume: 'https://docs.google.com/document/d/1--XyT8Qvw_dTTXky_-OII7H1TiwYNPwTPmPWmKZ5QQU/edit?usp=drivesdk',
   education: {
     degree: 'B.E. Electronics & Communication Engineering',
     institution: 'Adithya Institute of Technology',
     location: 'Coimbatore, India',
     period: '2023 – 2027',
-    sgpa: '8.26'
+    sgpa: '8.94'
   },
   bio: `I am an aspiring Full-Stack MERN Developer with a strong foundation in Electronics and Communication Engineering from Adithya Institute of Technology, Coimbatore. My background in hardware circuitry and PCB design gives me a unique systems-level perspective on software development—enabling me to bridge low-level data flows, hardware telemetry, and scalable full-stack web applications with precision.`
 };

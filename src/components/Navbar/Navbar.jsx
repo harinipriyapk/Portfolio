@@ -50,7 +50,7 @@ export default function Navbar() {
             <Cpu className="logo-cpu-icon" size={22} />
           </div>
           <div className="logo-text">
-            <span className="logo-name">Harini</span>
+            <span className="logo-name">Harini Priya PK</span>
             <span className="logo-dot">.dev</span>
           </div>
         </a>
